@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a supporting file of interp_test.m
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-330-introduction-to-numerical-analysis-spring-2012/1bb3491b1447035838dfdb4a03e4e7c3_interp_test.m
+file: /media/courses/18-330-introduction-to-numerical-analysis-spring-2012/1bb3491b1447035838dfdb4a03e4e7c3_interp_test.m
 file_type: text/x-objcsrc
+learning_resource_types:
+- Tools
+ocw_type: OCWFile
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Other
 title: interp_test.m
 uid: 1bb3491b-1447-0358-38df-db4a03e4e7c3

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a supporting file of IVP_test2.m
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-330-introduction-to-numerical-analysis-spring-2012/b1ac6c9c121520ef0bb17bd3804eb4ae_IVP_test2.m
+file: /media/courses/18-330-introduction-to-numerical-analysis-spring-2012/b1ac6c9c121520ef0bb17bd3804eb4ae_IVP_test2.m
 file_type: text/x-objcsrc
+learning_resource_types:
+- Tools
+ocw_type: OCWFile
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Other
 title: IVP_test2.m
 uid: b1ac6c9c-1215-20ef-0bb1-7bd3804eb4ae

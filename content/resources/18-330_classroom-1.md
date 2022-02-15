@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-330-introduction-to-numerical-analysis-spring-2012/175c590cfc9690043d32cd362192ddb2_18-330_classroom-1.png
+file: /media/courses/18-330-introduction-to-numerical-analysis-spring-2012/175c590cfc9690043d32cd362192ddb2_18-330_classroom-1.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: CourseSection
 resourcetype: Image
 title: 18-330_classroom-1.png
 uid: 175c590c-fc96-9004-3d32-cd362192ddb2

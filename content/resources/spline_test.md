@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a Supporting file of spline_test.m
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-330-introduction-to-numerical-analysis-spring-2012/706ae7d32651b9cb2e0c7cd010980448_spline_test.m
+file: /media/courses/18-330-introduction-to-numerical-analysis-spring-2012/706ae7d32651b9cb2e0c7cd010980448_spline_test.m
 file_type: text/x-objcsrc
+learning_resource_types:
+- Tools
+ocw_type: OCWFile
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Other
 title: spline_test.m
 uid: 706ae7d3-2651-b9cb-2e0c-7cd010980448
