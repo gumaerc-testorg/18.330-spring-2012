@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: c6ef2987-0b8f-7f66-3399-778b05f3058d
 resourcetype: Other
 title: interp_test.m
 uid: 1bb3491b-1447-0358-38df-db4a03e4e7c3

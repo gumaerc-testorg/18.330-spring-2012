@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5f864ba7-1c10-eed7-36a9-376465834619
 resourcetype: Document
 title: Introduction to Numerical Analysis, Lecture 7
 uid: a71c6377-3ac6-bd7b-47fd-70c44e51b1e2

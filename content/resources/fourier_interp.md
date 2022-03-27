@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: c6ef2987-0b8f-7f66-3399-778b05f3058d
 resourcetype: Other
 title: fourier_interp.m
 uid: 963c74f0-a762-dc3e-021c-a5e47fd3582f

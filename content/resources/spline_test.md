@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: c6ef2987-0b8f-7f66-3399-778b05f3058d
 resourcetype: Other
 title: spline_test.m
 uid: 706ae7d3-2651-b9cb-2e0c-7cd010980448
