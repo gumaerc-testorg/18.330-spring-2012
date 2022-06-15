@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-330-introduction-to-numerical-analysis-spring-2012/175c590cfc9690043d32cd362192ddb2_18-330_classroom-1.png
+file: /courses/18-330-introduction-to-numerical-analysis-spring-2012/175c590cfc9690043d32cd362192ddb2_18-330_classroom-1.png
 file_type: image/png
 image_metadata:
   caption: ''

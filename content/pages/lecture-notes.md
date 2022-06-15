@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
 1–2
 {{< tdclose >}}
 {{< tdopen >}}
-[Series and Sequences (PDF)]({{< baseurl >}}/resources/mit18_330s12_chapter1)
+{{% resource_link 8252888d-494b-64c7-811a-31c1b4bc0aa2 "Series and Sequences (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ TOPICS
 3–4
 {{< tdclose >}}
 {{< tdopen >}}
-[Integrals as Sums and Derivatives as Differences (PDF)]({{< baseurl >}}/resources/mit18_330s12_chapter2)
+{{% resource_link aab35b69-b416-7589-9277-9e2ad508b286 "Integrals as Sums and Derivatives as Differences (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ TOPICS
 5–8
 {{< tdclose >}}
 {{< tdopen >}}
-[Interpolation (PDF)]({{< baseurl >}}/resources/mit18_330s12_chapter3)
+{{% resource_link fd3b0e48-e1ba-bfcc-36db-7c012078318d "Interpolation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ TOPICS
 9–10
 {{< tdclose >}}
 {{< tdopen >}}
-[Nonlinear Equations (PDF)]({{< baseurl >}}/resources/mit18_330s12_chapter4)
+{{% resource_link 5b325bfa-56a5-9979-4c71-96de926844b0 "Nonlinear Equations (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ TOPICS
 11–15
 {{< tdclose >}}
 {{< tdopen >}}
-[Methods for Ordinary Differential Equations (PDF)]({{< baseurl >}}/resources/mit18_330s12_chapter5)
+{{% resource_link a9d2bd9b-e098-f0ad-a172-af40379a17cc "Methods for Ordinary Differential Equations (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ TOPICS
 16–20
 {{< tdclose >}}
 {{< tdopen >}}
-[Fourier Analysis (PDF)]({{< baseurl >}}/resources/mit18_330s12_chapter6)
+{{% resource_link dd43d0af-438b-8b2a-a288-022b0064c550 "Fourier Analysis (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ TOPICS
 21–25
 {{< tdclose >}}
 {{< tdopen >}}
-[Spectral Interpolation, Differentiation, Quadrature (PDF)]({{< baseurl >}}/resources/mit18_330s12_chapter7)
+{{% resource_link a71c6377-3ac6-bd7b-47fd-70c44e51b1e2 "Spectral Interpolation, Differentiation, Quadrature (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
