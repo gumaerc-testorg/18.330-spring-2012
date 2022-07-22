@@ -5,6 +5,7 @@ file: /courses/18-330-introduction-to-numerical-analysis-spring-2012/963c74f0a76
 file_type: text/x-objcsrc
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fourier_interp.m
 uid: 963c74f0-a762-dc3e-021c-a5e47fd3582f
 ---
 This is a supporting file of fourier_interp.m
-

@@ -5,6 +5,7 @@ file: /courses/18-330-introduction-to-numerical-analysis-spring-2012/706ae7d3265
 file_type: text/x-objcsrc
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: spline_test.m
 uid: 706ae7d3-2651-b9cb-2e0c-7cd010980448
 ---
 This is a Supporting file of spline_test.m
-

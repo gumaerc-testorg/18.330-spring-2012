@@ -5,6 +5,7 @@ file: /courses/18-330-introduction-to-numerical-analysis-spring-2012/03f4dcbbd76
 file_type: text/x-objcsrc
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: IVP_test.m
 uid: 03f4dcbb-d76a-72e9-8dcc-ee71a78a02cc
 ---
 This is a supporting file of IVP_test.m
-

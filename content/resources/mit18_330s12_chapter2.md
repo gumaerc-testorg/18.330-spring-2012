@@ -5,6 +5,7 @@ file: /courses/18-330-introduction-to-numerical-analysis-spring-2012/aab35b69b41
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Introduction to Numerical Analysis, Lecture 2
 uid: aab35b69-b416-7589-9277-9e2ad508b286
 ---
 This file contains information regarding Chapter 2.
-
