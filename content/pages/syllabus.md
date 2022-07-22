@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section includes Course Meeting Times, Prerequisites, Summary,
+  Topics, and Grading.  '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7c30d788-dded-bb79-546e-525db0481e71
 ---
@@ -12,7 +16,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_Calculus (18.01)_](/courses/18-01sc-single-variable-calculus-fall-2010/), [_Calculus (18.02)_](/courses/18-02sc-multivariable-calculus-fall-2010/), and [_Differential Equations (18.03)_](/courses/18-03sc-differential-equations-fall-2011/). Some exposure to linear algebra (matrices) at the level of [_Linear Algebra (18.06)_](/courses/18-06-linear-algebra-spring-2010/) helps, but is not required. The assignments will involve basic computer programming in the language of your choice (Matlab® recommended; this class encourages you to learn Matlab if you don't already know it).
+[_Calculus (18.01)_](/courses/18-01sc-single-variable-calculus-fall-2010), [_Calculus (18.02)_](/courses/18-02sc-multivariable-calculus-fall-2010), and [_Differential Equations (18.03)_](/courses/18-03sc-differential-equations-fall-2011). Some exposure to linear algebra (matrices) at the level of [_Linear Algebra (18.06)_](/courses/18-06-linear-algebra-spring-2010) helps, but is not required. The assignments will involve basic computer programming in the language of your choice (Matlab® recommended; this class encourages you to learn Matlab if you don't already know it).
 
 Summary
 -------
@@ -32,7 +36,7 @@ Topics
 *   Least-squares approximation
 *   Principal component analysis
 
-The class will NOT cover [_Linear Partial Differential Equations (18.303)_](/courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/), and will contain much less linear algebra than the course [_Linear Algebra (18.06SC)_](/courses/18-06sc-linear-algebra-fall-2011/).
+The class will NOT cover [_Linear Partial Differential Equations (18.303)_](/courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014), and will contain much less linear algebra than the course [_Linear Algebra (18.06SC)_](/courses/18-06sc-linear-algebra-fall-2011).
 
 Grading
 -------

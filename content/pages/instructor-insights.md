@@ -1,27 +1,27 @@
 ---
 content_type: page
+description: This section provides an overview of the course 18.330 Introduction to
+  Numerical Analysis as it was taught by Professor Laurent Demanet in Spring 2012.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 title: Instructor Insights
 uid: c211db95-89db-de17-36b3-806670e359ff
 ---
+## Course Overview
 
-//<!\[CDATA\[ $(function(){ $('#slider').anythingSlider({ theme: 'default', mode: 'horizontal', expand: false, resizeContents: true, showMultiple: false, easing: "swing", buildArrows: true, buildNavigation: false, buildStartStop: false, appendFowardTo: null, appendBackTo: null, appendControlsTo: null, appendNavigationTo: null, appendStartStopTo: null, toggleArrows: false, toggleControls: false, startText: "Start", stopText: "Stop", forwardText: "&raquo;", backText: "&laquo;", tooltipClass: 'tooltip', enableArrows: true, enableNavigation: true, enableStartStop: true, enableKeyboard: true, startPanel: 1, changeBy: 1, hashTags: false, infiniteSlides: true, navigationFormatter: function(index, panel) { return "" + index; }, navigationSize: false, autoPlay: false, autoPlayLocked: false, autoPlayDelayed: false, pauseOnHover: true, stopAtEnd: false, playRtl: false, delay: 3000, resumeDelay: 15000, animationTime: 600, delayBeforeAnimate : 0, onBeforeInitialize: function(e, slider) {}, onInitialized: function(e, slider) {}, onShowStart: function(e, slider) {}, onShowStop: function(e, slider) {}, onShowPause: function(e, slider) {}, onShowUnpause: function(e, slider) {}, onSlideInit: function(e, slider) {}, onSlideBegin: function(e, slider) {}, onSlideComplete: function(slider) {}, onSliderResize: function(e, slider) {}, clickForwardArrow: "click", clickBackArrow: "click", clickControls: "click focusin", clickSlideshow: "click", resumeOnVideoEnd: true, resumeOnVisible: true, addWmodeToObject: "opaque", isVideoPlaying: function(base) { return false; } }); });//\]\]>
-
-Course Overview
----------------
-
-This page focuses on the course 18.330 _Introduction to Numerical Analysis_ as it was taught by Professor Laurent Demanet in Spring 2012.
+This page focuses on the course _18.330_ _Introduction to Numerical Analysis_ as it was taught by Professor Laurent Demanet in Spring 2012.
 
 This is a lecture-based course on basic techniques for the efficient numerical solution of problems in science and engineering. It is a centerpiece of MIT’s undergraduate offerings in applied mathematics.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Familiarity with numerical discretization of objects learned in calculus, such as integrals, derivatives, and differential equations
-*   An idea of the size of the errors involved in numerical discretization
-*   Familiarity with Fourier analysis and its numerical implementation
+- Familiarity with numerical discretization of objects learned in calculus, such as integrals, derivatives, and differential equations
+- An idea of the size of the errors involved in numerical discretization
+- Familiarity with Fourier analysis and its numerical implementation
 
 ### Possibilities for Further Study/Careers
 
@@ -29,12 +29,11 @@ The skills and knowledge taught in this course are fundamentally important for m
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "I constantly questioned my students to get them to go through the steps of figuring out what the answer should be before they heard it from me." "—Prof. Demanet" >}}
 
-Below, Prof. Laurent Demanet describes various aspects of teaching 18.330 _Introduction to Numerical Analysis_.
+Below, Prof. Laurent Demanet describes various aspects of teaching _18.330_ _Introduction to Numerical Analysis_.
 
 ### Teaching Style
 
@@ -46,44 +45,30 @@ It is important to find the right tradeoff between important, enabling, but "sof
 
 I found it useful to show targeted numerical experiments with a clear message (live demos are good), in order for the students to gain a clear intuitive understanding of what the various numerical methods are accomplishing.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-*   [18.01 _Calculus I_](/courses/18-01-single-variable-calculus-fall-2006/)
-*   [18.02 _Calculus II_](/courses/18-02-multivariable-calculus-fall-2007/)
-*   [18.03 _Differential Equations_](/courses/18-03-differential-equations-spring-2010/)
-*   [18.06 _Linear Algebra_](/courses/18-06-linear-algebra-spring-2010/)
+- [18.01 _Calculus I_](/courses/18-01-single-variable-calculus-fall-2006)
+- [18.02 _Calculus II_](/courses/18-02-multivariable-calculus-fall-2007)
+- [18.03 _Differential Equations_](/courses/18-03-differential-equations-spring-2010)
+- [18.06 _Linear Algebra_](/courses/18-06-linear-algebra-spring-2010)
 
 ### Requirements Satisfied
 
-*   18.330 can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/), but is not required.
+- 18.330 can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/), but is not required.
 
 ### Offered
 
-*   Every spring
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A classroom with a large sliding chalkboard at the front and rows of tables and chairs for students.]({{< resource_file 175c590c-fc96-9004-3d32-cd362192ddb2 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-      
-    
-    18.330 is taught in a classroom that seats 35.
-    
+- Every spring
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
-Student Information
--------------------
+## Student Information
 
-![On average, about 30 students take this course each year.]({{< resource_file 504b0075-26e7-533b-5b33-f3711d0d5554 >}})
+### Enrollment
+
+30 students
 
 ### Breakdown by Year
 
@@ -95,8 +80,8 @@ Mostly sophomores and juniors in equal proportion; a few seniors
 
 ### Typical Student Background
 
-*   Good quantitative instincts
-*   Familiarity with calculus and elementary linear algebra, but not necessarily mathematical proofs
+- Good quantitative instincts
+- Familiarity with calculus and elementary linear algebra, but not necessarily mathematical proofs
 
 ### Ideal Class Size
 
@@ -104,23 +89,20 @@ Having more than 40 students tends to hinder class participation and interaction
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
-*   Two class sessions per week; 1.5 hours per class
-*   26 class sessions total
-*   Concepts were often introduced with examples and motivation.
-*   In-class time was primarily spent on blackboard lectures. Some key mathematical proofs were presented, but the course did not cover the notes in their entirety.
-*   About one-eighth of class time was spent on numerical examples presented with MATLAB™ via the LCD projector.
+- Two class sessions per week; 1.5 hours per class
+- 26 class sessions total
+- Concepts were often introduced with examples and motivation.
+- In-class time was primarily spent on blackboard lectures. Some key mathematical proofs were presented, but the course did not cover the notes in their entirety.
+- About one-eighth of class time was spent on numerical examples presented with MATLAB™ via the LCD projector.
 
-Out of Class
-------------
+### Out of Class
 
-*   Problem Sets
-*   Review of course material, such as lecture notes
-*   Exam preparation
+- Problem Sets
+- Review of course material, such as lecture notes
+- Exam preparation
