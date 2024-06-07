@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file of fourier_interp.m
 file: /courses/18-330-introduction-to-numerical-analysis-spring-2012/963c74f0a762dc3e021ca5e47fd3582f_fourier_interp.m
+file_size: 429
 file_type: text/x-objcsrc
 learning_resource_types:
 - Tools
