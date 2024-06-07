@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a Supporting file of spline_test.m
 file: /courses/18-330-introduction-to-numerical-analysis-spring-2012/706ae7d32651b9cb2e0c7cd010980448_spline_test.m
+file_size: 1026
 file_type: text/x-objcsrc
 learning_resource_types:
 - Tools
