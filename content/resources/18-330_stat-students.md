@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-330-introduction-to-numerical-analysis-spring-2012/504b007526e7533b5b33f3711d0d5554_18-330_stat-students.png
+file_size: 2911
 file_type: image/png
 image_metadata:
   caption: ''
