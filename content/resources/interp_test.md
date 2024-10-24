@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file of interp_test.m
-file: /courses/18-330-introduction-to-numerical-analysis-spring-2012/1bb3491b1447035838dfdb4a03e4e7c3_interp_test.m
+file: /ol-ocw-studio-app/courses/18-330-introduction-to-numerical-analysis-spring-2012/1bb3491b1447035838dfdb4a03e4e7c3_interp_test.m
 file_size: 434
 file_type: text/x-objcsrc
 learning_resource_types:
