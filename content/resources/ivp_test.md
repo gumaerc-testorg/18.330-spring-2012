@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file of IVP_test.m
-file: /ol-ocw-studio-app/courses/18-330-introduction-to-numerical-analysis-spring-2012/03f4dcbbd76a72e98dccee71a78a02cc_IVP_test.m
+file: /courses/18-330-introduction-to-numerical-analysis-spring-2012/03f4dcbbd76a72e98dccee71a78a02cc_IVP_test.m
 file_size: 2407
 file_type: text/x-objcsrc
 learning_resource_types:

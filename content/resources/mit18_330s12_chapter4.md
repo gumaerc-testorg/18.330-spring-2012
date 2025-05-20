@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Chapter 4.
-file: /ol-ocw-studio-app/courses/18-330-introduction-to-numerical-analysis-spring-2012/5b325bfa56a599794c7196de926844b0_MIT18_330S12_Chapter4.pdf
+file: /courses/18-330-introduction-to-numerical-analysis-spring-2012/5b325bfa56a599794c7196de926844b0_MIT18_330S12_Chapter4.pdf
 file_size: 675540
 file_type: application/pdf
 learning_resource_types:
