@@ -56,7 +56,7 @@ I found it useful to show targeted numerical experiments with a clear message (l
 
 ### Requirements Satisfied
 
-- 18.330 can be applied toward a {{% resource_link "6376ba1e-cdb1-4fc9-932d-ffbcfe555513" "Bachelor of Science in Mathematics" %}}, but is not required.
+- 18.330 can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/), but is not required.
 
 ### Offered
 
